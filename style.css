@@ -1,0 +1,11 @@
+/* CSS لتحديد الخلفية */
+body {
+    background-image: url('images/background.jpg'); /* ضع صورة الخلفية هنا */
+    background-size: cover; /* تجعل الصورة تغطي الصفحة بالكامل */
+    background-repeat: no-repeat; /* تمنع تكرار الصورة */
+    background-attachment: fixed; /* تجعل الخلفية ثابتة عند التمرير */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* خط افتراضي */
+    color: #fff; /* لون النص */
+}
